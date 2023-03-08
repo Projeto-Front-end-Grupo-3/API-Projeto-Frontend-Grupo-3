@@ -62,6 +62,45 @@
       "name": "Persival da Silva Santos",
       "profession": "Full-Stack",
       "id": 9
+    },
+    {
+      "email": "pedrohenrique@mail.com",
+      "password": "$2a$10$VYBRLGBhnTycaCRMCsECFuyPQJpEy3997kKWhhQ6DWWawSnLQseay",
+      "name": "Pedro Henrique",
+      "profession": "Full-Stack",
+      "id": 10
+    },
+    {
+      "email": "pedrohenriqueee@mail.com",
+      "password": "$2a$10$dJpC9iggRf4hZAx2jgD6D.iBZAC15aCtd3awnwyk8.VVW3GhOpfIu",
+      "name": "Pedro Henrique",
+      "profession": "Full-Stack",
+      "experience": "Pleno",
+      "id": 11
+    },
+    {
+      "email": "pedrohenrieequeee@mail.com",
+      "password": "$2a$10$B84beAqK1q6/0v4PTNrMHe.Cj/iBJ9781GMZTb1b60PWErFC6FXXS",
+      "name": "Pedro Henrique",
+      "profession": "Full-Stack",
+      "level": "Pleno",
+      "id": 12
+    },
+    {
+      "email": "pedrohenrieequeeee@mail.com",
+      "password": "$2a$10$rovM1l.pjd1s0QoisyNjL.lRuq7/5il3fPMaO9I79nBxnhRJs6Cmy",
+      "name": "Pedro Henrique",
+      "profession": "Full-Stack",
+      "level": "Pleno",
+      "id": 13
+    },
+    {
+      "email": "testeee@mail.com",
+      "password": "$2a$10$WgvEjN/HBUcpScbHwCMSmOEJ0K0vh9PHhGrvOkVj//R5.vcBZ9PSq",
+      "name": "Pedro Henrique",
+      "profession": "Full-Stack",
+      "level": "Sênior",
+      "id": 14
     }
   ],
   "posts": [
@@ -84,6 +123,20 @@
       "postId": 2,
       "userId": 9,
       "id": 3
+    },
+    {
+      "title": "Aulas",
+      "author": "Pedro Henrique",
+      "description": "Um post legal!!!",
+      "userId": 10,
+      "id": 4
+    },
+    {
+      "title": "Aulas",
+      "author": "Pedro Henrique",
+      "description": "Um post legal!!!",
+      "userId": 10,
+      "id": 5
     }
   ],
   "friends": [
@@ -112,6 +165,12 @@
       "postId": 4,
       "description": "muito legal meu bom",
       "id": 3
+    },
+    {
+      "userId": 10,
+      "postId": 5,
+      "description": "muito legal meu bom",
+      "id": 4
     }
   ]
 }
