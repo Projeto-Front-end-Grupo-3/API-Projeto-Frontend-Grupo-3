@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "profession": "Full-Stack"
+    },
+    {
+      "email": "djeff@mail.com",
+      "password": "$2a$10$tDzEFmOS2AunlLEBcJoYx.d3daoG8rGCb1cISxop5964vxyb2eiZy",
+      "name": "Djeff",
+      "profession": "Full-Stack",
+      "id": "3"
+    },
+    {
+      "email": "ana@mail.com",
+      "password": "$2a$10$yUe6N269oM6CRtdx2iw5A.3Na8OJ3PGz2h8a5ncirugu9aDdZfnBe",
+      "name": "Ana",
+      "profession": "Full-Stack",
+      "id": "TelLD76"
+    },
+    {
+      "email": "jose@mail.com",
+      "password": "$2a$10$O8Vv70mCUf6rvVP3NnL2yuHra7ZtL6Gmc.vWjFuqT.b.psTZPHTx6",
+      "name": "Jose",
+      "profession": "Full-Stack",
+      "id": "7wJSrt6"
+    },
+    {
+      "email": "pedro@mail.com",
+      "password": "$2a$10$f8.D3Lr1CKqnDUMWihzOTOZh5emiv3fWxHAKr5hebsDDsSoQfsA1.",
+      "name": "Pedro",
+      "profession": "Full-Stack",
+      "id": "G8qcd2g"
+    },
+    {
+      "email": "maria@mail.com",
+      "password": "$2a$10$.xzC.Uxo/bWwdZpO3wqa5OeiTDcOjY1NBfdxW.ik65pPwILdeFkki",
+      "name": "Maria",
+      "profession": "Full-Stack",
+      "id": "ahTZEVD"
+    }
+  ]
+}
