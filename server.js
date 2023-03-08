@@ -10,6 +10,9 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 640,
+  posts: 640,
+  friends:640,
+  comments:664
 });
 
 app.use(cors());

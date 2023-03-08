@@ -4,42 +4,114 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "profession": "Full-Stack"
-    },
-    {
-      "email": "djeff@mail.com",
-      "password": "$2a$10$tDzEFmOS2AunlLEBcJoYx.d3daoG8rGCb1cISxop5964vxyb2eiZy",
-      "name": "Djeff",
       "profession": "Full-Stack",
-      "id": "3"
+      "id": 1
     },
     {
       "email": "ana@mail.com",
       "password": "$2a$10$yUe6N269oM6CRtdx2iw5A.3Na8OJ3PGz2h8a5ncirugu9aDdZfnBe",
       "name": "Ana",
       "profession": "Full-Stack",
-      "id": "TelLD76"
+      "id": 2
     },
     {
       "email": "jose@mail.com",
       "password": "$2a$10$O8Vv70mCUf6rvVP3NnL2yuHra7ZtL6Gmc.vWjFuqT.b.psTZPHTx6",
       "name": "Jose",
       "profession": "Full-Stack",
-      "id": "7wJSrt6"
+      "id": 3
     },
     {
       "email": "pedro@mail.com",
       "password": "$2a$10$f8.D3Lr1CKqnDUMWihzOTOZh5emiv3fWxHAKr5hebsDDsSoQfsA1.",
       "name": "Pedro",
       "profession": "Full-Stack",
-      "id": "G8qcd2g"
+      "id": 4
     },
     {
       "email": "maria@mail.com",
       "password": "$2a$10$.xzC.Uxo/bWwdZpO3wqa5OeiTDcOjY1NBfdxW.ik65pPwILdeFkki",
       "name": "Maria",
       "profession": "Full-Stack",
-      "id": "ahTZEVD"
+      "id": 5
+    },
+    {
+      "email": "djeff@mail.com",
+      "password": "$2a$10$2.DpPQM46bZ6QC/dt4kPTeKzxsTrE9HkLjpZxOG3WsGjvJnTK3v86",
+      "name": "Djeff",
+      "profession": "Full-Stack",
+      "id": 6
+    },
+    {
+      "email": "alex@mail.com",
+      "password": "$2a$10$8hvZuxO7r3MqjD1ZOz6QBOazmtPlW0R1nQ1q30chi9VmgnuTDMLJa",
+      "name": "Alex",
+      "profession": "Full-Stack",
+      "id": 7
+    },
+    {
+      "email": "julio@mail.com",
+      "password": "$2a$10$vbG/lijbAngQIwLJYBxPjOiZXFqkoLjLhTy/XF3AEwjBRaA89Mndu",
+      "name": "Julio",
+      "profession": "Full-Stack",
+      "id": 8
+    },
+    {
+      "email": "persival@mail.com",
+      "password": "$2a$10$QaEtQngbziJFnV9QxUuUj.gp3BIpgzOO3/WwfxTj6Zff3.3wH9VV2",
+      "name": "Persival da Silva Santos",
+      "profession": "Full-Stack",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "title": "kenzie",
+      "author": "Kenzinho",
+      "description": "Um post legal!!",
+      "id": 1
+    },
+    {
+      "title": "java",
+      "author": "Percival",
+      "description": "Um post muito legal!!",
+      "userId": 8,
+      "id": 2
+    },
+    {
+      "title": "java",
+      "description": "Um post legal!!",
+      "postId": 2,
+      "userId": 9,
+      "id": 3
+    }
+  ],
+  "friends": [
+    {
+      "name": "Pedro",
+      "profession": "Full-Stack",
+      "id": 4,
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "userId": 8,
+      "postId": 4,
+      "description": "Foi bom",
+      "id": 1
+    },
+    {
+      "userId": 8,
+      "postId": 4,
+      "description": "muito legal",
+      "id": 2
+    },
+    {
+      "userId": 8,
+      "postId": 4,
+      "description": "muito legal meu bom",
+      "id": 3
     }
   ]
 }
