@@ -139,12 +139,18 @@
       "id": 5
     }
   ],
-  "friends": [
+  "follower": [
     {
       "name": "Pedro",
       "profession": "Full-Stack",
       "id": 4,
       "userId": 1
+    },
+    {
+      "name": "Pedro",
+      "profession": "Full-Stack",
+      "userId": 9,
+      "id": 5
     }
   ],
   "comments": [
