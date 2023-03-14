@@ -6,7 +6,8 @@
       "name": "Kenzinho",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 1
     },
     {
@@ -15,7 +16,8 @@
       "name": "Ana",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 2
     },
     {
@@ -24,7 +26,8 @@
       "name": "Jose",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 3
     },
     {
@@ -33,7 +36,8 @@
       "name": "Pedro",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 4
     },
     {
@@ -42,7 +46,8 @@
       "name": "Maria",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 5
     },
     {
@@ -51,7 +56,8 @@
       "name": "Djeff",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 6
     },
     {
@@ -60,7 +66,8 @@
       "name": "Alex",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 7
     },
     {
@@ -69,7 +76,8 @@
       "name": "Julio",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 8
     },
     {
@@ -78,7 +86,8 @@
       "name": "Persival da Silva Santos",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 9
     },
     {
@@ -87,7 +96,8 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 10
     },
     {
@@ -96,7 +106,8 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 11
     },
     {
@@ -105,7 +116,8 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 12
     },
     {
@@ -114,7 +126,8 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 13
     },
     {
@@ -123,7 +136,8 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Sênior",
-      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgPerfil": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 14
     },
     {
@@ -132,7 +146,8 @@
       "name": "Djefferson Wallacy",
       "profession": "frontEnd",
       "level": "senior",
-      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "imgPerfil": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
       "id": 15
     },
     {
