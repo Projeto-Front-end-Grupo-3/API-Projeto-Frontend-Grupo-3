@@ -5,8 +5,8 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 1
     },
     {
@@ -14,8 +14,8 @@
       "password": "$2a$10$yUe6N269oM6CRtdx2iw5A.3Na8OJ3PGz2h8a5ncirugu9aDdZfnBe",
       "name": "Ana",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 2
     },
     {
@@ -23,8 +23,8 @@
       "password": "$2a$10$O8Vv70mCUf6rvVP3NnL2yuHra7ZtL6Gmc.vWjFuqT.b.psTZPHTx6",
       "name": "Jose",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 3
     },
     {
@@ -32,8 +32,8 @@
       "password": "$2a$10$f8.D3Lr1CKqnDUMWihzOTOZh5emiv3fWxHAKr5hebsDDsSoQfsA1.",
       "name": "Pedro",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 4
     },
     {
@@ -41,8 +41,8 @@
       "password": "$2a$10$.xzC.Uxo/bWwdZpO3wqa5OeiTDcOjY1NBfdxW.ik65pPwILdeFkki",
       "name": "Maria",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 5
     },
     {
@@ -50,8 +50,8 @@
       "password": "$2a$10$2.DpPQM46bZ6QC/dt4kPTeKzxsTrE9HkLjpZxOG3WsGjvJnTK3v86",
       "name": "Djeff",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 6
     },
     {
@@ -59,8 +59,8 @@
       "password": "$2a$10$8hvZuxO7r3MqjD1ZOz6QBOazmtPlW0R1nQ1q30chi9VmgnuTDMLJa",
       "name": "Alex",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 7
     },
     {
@@ -68,8 +68,8 @@
       "password": "$2a$10$vbG/lijbAngQIwLJYBxPjOiZXFqkoLjLhTy/XF3AEwjBRaA89Mndu",
       "name": "Julio",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 8
     },
     {
@@ -77,8 +77,8 @@
       "password": "$2a$10$QaEtQngbziJFnV9QxUuUj.gp3BIpgzOO3/WwfxTj6Zff3.3wH9VV2",
       "name": "Persival da Silva Santos",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 9
     },
     {
@@ -86,8 +86,8 @@
       "password": "$2a$10$VYBRLGBhnTycaCRMCsECFuyPQJpEy3997kKWhhQ6DWWawSnLQseay",
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 10
     },
     {
@@ -95,8 +95,8 @@
       "password": "$2a$10$dJpC9iggRf4hZAx2jgD6D.iBZAC15aCtd3awnwyk8.VVW3GhOpfIu",
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
-      "level":"Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "level": "Pleno",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 11
     },
     {
@@ -105,7 +105,7 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 12
     },
     {
@@ -114,7 +114,7 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Pleno",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 13
     },
     {
@@ -123,8 +123,48 @@
       "name": "Pedro Henrique",
       "profession": "Full-Stack",
       "level": "Sênior",
-      "img":"https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
+      "img": "https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/05/30105213/Qual-e%CC%81-o-Perfil-do-Empreendedor.jpg",
       "id": 14
+    },
+    {
+      "email": "djeff99@mail.com",
+      "password": "$2a$10$mw.38u63mIyhjzCZpdpFRuMS3jLVXndpmdk/QY6x0BZSK2kThwXZe",
+      "name": "Djefferson Wallacy",
+      "profession": "frontEnd",
+      "level": "senior",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "id": 15
+    },
+    {
+      "email": "djeff999@mail.com",
+      "password": "$2a$10$XE3URqFX77jmPG/LTntXxubzWiWP4Du2tUK14O97V3o3mE3UsHZI.",
+      "name": "Djefferson Wallacy",
+      "profession": "frontEnd",
+      "level": "junior",
+      "img": "",
+      "imgPerfil": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
+      "id": 16
+    },
+    {
+      "email": "djeff199@mail.com",
+      "password": "$2a$10$7gdyQiuMqUJHmNw1bhqtn.d3NISB5f90W7/0YJfHQS/Bbxa6GzAkO",
+      "name": "Djefferson Wallacy",
+      "profession": "fullStack",
+      "level": "senior",
+      "imgPerfil": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
+      "id": 17
+    },
+    {
+      "email": "djeff1999@mail.com",
+      "password": "$2a$10$.c3iaqR7eNSZeyttnhygtuPUuneuQwT0fXZhsAMMWDcWEiAuFEtfK",
+      "name": "Djefferson Wallacy",
+      "profession": "frontEnd",
+      "level": "pleno",
+      "imgPerfil": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+      "imgCapa": "https://thepracticaldev.s3.amazonaws.com/i/6hqmcjaxbgbon8ydw93z.png",
+      "id": 18
     }
   ],
   "posts": [
@@ -135,7 +175,7 @@
       "id": 1
     },
     {
-      "title": "java",
+      "title":"java",
       "author": "Percival",
       "description": "Um post muito legal!!",
       "userId": 8,
@@ -168,6 +208,47 @@
       "description": "Um post legal!!",
       "userId": 9,
       "id": 6
+    },
+    {
+      "title": "ffffff",
+      "description": "sssss",
+      "userId": 6,
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "userId": 6,
+      "id": 8
+    },
+    {
+      "title": "rrrrr",
+      "userId": 6,
+      "id": 9
+    },
+    {
+      "title": "sss",
+      "description": "sss",
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "title": "",
+      "description": "",
+      "userId": 6,
+      "id": 11
+    },
+    {
+      "title": "css",
+      "description": "css legal",
+      "userId": 18,
+      "id": 12
+    },
+    {
+      "title": "java",
+      "description": "java muito bom",
+      "userId": 18,
+      "id": 13
     }
   ],
   "follower": [
@@ -208,6 +289,42 @@
       "postId": 5,
       "description": "muito legal meu bom",
       "id": 4
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "ola",
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "Salário ",
+      "id": 6
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "nova",
+      "id": 7
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "ola ",
+      "id": 8
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "ola ",
+      "id": 9
+    },
+    {
+      "userId": 6,
+      "postId": 2,
+      "description": "ola ",
+      "id": 10
     }
   ]
 }
